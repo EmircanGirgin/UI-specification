@@ -1,0 +1,20 @@
+This is an user management screen interface.On the left-top of the screen there will be '+New User' box for adding new users.Next to it there will be button that hides the disabled users.
+When we push New User button sign up screen will appear at right of interface.Title will be New User.There will be 5 raws.
+Username     : (There is box to write name)
+Display Name : (There is box to write display name)
+Phone        : (There is box to write phone number)
+Email        : (There is box to write email)
+User Roles   : (There is box to select user's role)
+Texts will be black on this screen.
+When press this box 3 options eill appear.From upside to downside 'Guest','Admin' and 'SuperAdmin'. 
+Under these an Enabled button to control users for enabling or disabling.
+
+After filling these and press Save User button at right-top of the screen  user will saved to the system.
+
+Bottom of New User box a table will be exist.
+First column title 'ID',second is 'Useer Name',third is 'Email' and fourth is 'Enabled'.We should be able to filter according to the parameters.
+Titles will be white color on a blue background.
+İn this table we will see users' informations.İnformations will be black.
+
+
+
